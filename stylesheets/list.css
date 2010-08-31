@@ -1,0 +1,39 @@
+/* General */
+.evnt-list-widget-container { border: 1px solid #CCC; font-family: Verdana,Arial,Sans Serif; font-size: 13px; width: 300px; }
+.evnt-list-widget-container img { border: none; margin: 0; padding: 0; }
+.evnt-list-widget-container p { margin: 0; padding: 0; }
+
+/* Header */
+.evnt-list-widget-header { border-bottom: 1px solid #CCC; text-align: center; padding: 3px 5px; }
+.evnt-list-widget-header-title { color: #444; font-size: 20px; font-weight: normal; margin: 0; padding: 0; }
+
+/* Body */
+.evnt-list-widget-body { height: 400px; overflow: auto; }
+
+.evnt-list-widget-body .evnt-no-events { font-size: 14px; margin: 170px 0; padding: 0pt 10px; text-align: center; }
+
+.evnt-list-widget-body .evnt-event {}
+.evnt-list-widget-body .evnt-event > h4 { margin: 0; padding: 0; }
+.evnt-list-widget-body .evnt-event > h4 > a { color: #000; display: block; font-size: 11px; padding: 5px 10px; text-decoration: none; }
+.evnt-list-widget-body .evnt-title { background-color: #F3F5FA; }
+.evnt-list-widget-body .evnt-details { font-size: 9px; padding: 2px 10px; }
+.evnt-list-widget-body .evnt-description {
+  font-family: inherit;
+  font-size: 11px;
+  line-height: inherit;
+  margin: 8px 0;
+  padding: 0px 10px;
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+.evnt-list-widget-body .evnt-url { font-size: 10px; margin-bottom: 8px; padding: 0px 10px; }
+
+.evnt-loading { margin: 170px 0; text-align: center; }
+
+/* Footer */
+.evnt-list-widget-footer { border-top: 1px solid #CCC; font-size: 11px; text-align: right; padding: 3px 5px; }
+.evnt-list-widget-footer a { display: inline-block; }
+.evnt-list-widget-footer img { vertical-align: text-bottom; }
