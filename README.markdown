@@ -16,8 +16,8 @@ Check out the examples for usage. Also, check the JavaScript file for more info.
 * Send me a pull request. Bonus points for topic branches.
 
 ## Author
-
-Written by [Curtis Miller](http://millarian.com) of [Flatterline](http://flatterline.com)
+Created by [Curtis Miller](http://millarian.com) of Flatterline, a
+[Ruby on Rails development company](http://flatterline.com).
 
 ### Contributors
 
